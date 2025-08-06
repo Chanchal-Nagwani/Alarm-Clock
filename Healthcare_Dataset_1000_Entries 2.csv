@@ -1,0 +1,1001 @@
+Serial Number,Patient Age,Gender,Disease/Disorder,Hospital Visits per Year,Treatment Duration (months),Recovery Status
+1,22,Female,Malaria,5,8,Under Treatment
+2,23,Male,HIV/AIDS,10,14,Under Treatment
+3,49,Other,Anxiety,10,12,Under Treatment
+4,90,Other,Diabetes,3,16,Recovered
+5,34,Female,Stroke,9,15,Under Treatment
+6,8,Male,Migraine,12,8,Under Treatment
+7,70,Other,Hepatitis,6,4,Recovered
+8,3,Female,Alzheimer's,5,6,Not Recovered
+9,35,Male,Alzheimer's,2,24,Not Recovered
+10,55,Female,Hepatitis,5,19,Recovered
+11,17,Male,Anxiety,8,3,Under Treatment
+12,12,Other,Chronic Kidney Disease,9,13,Recovered
+13,94,Other,Anxiety,4,5,Recovered
+14,79,Female,Hypertension,4,7,Under Treatment
+15,16,Female,COPD,11,19,Under Treatment
+16,51,Male,Anxiety,2,14,Not Recovered
+17,92,Female,Depression,11,16,Under Treatment
+18,75,Male,Depression,11,21,Not Recovered
+19,28,Female,Diabetes,1,22,Recovered
+20,10,Male,Hypertension,9,24,Not Recovered
+21,20,Male,HIV/AIDS,5,18,Under Treatment
+22,100,Female,HIV/AIDS,3,18,Recovered
+23,66,Female,Heart Disease,5,3,Recovered
+24,31,Male,Arthritis,6,9,Under Treatment
+25,19,Male,Asthma,12,18,Under Treatment
+26,42,Female,Malaria,6,14,Under Treatment
+27,46,Male,Alzheimer's,4,21,Under Treatment
+28,15,Male,Obesity,10,17,Recovered
+29,31,Male,Stroke,8,16,Under Treatment
+30,72,Male,Migraine,4,13,Not Recovered
+31,42,Other,Parkinson's,2,7,Under Treatment
+32,15,Other,Anxiety,8,23,Recovered
+33,95,Male,Diabetes,1,10,Not Recovered
+34,12,Female,Obesity,4,8,Recovered
+35,21,Female,COPD,8,1,Not Recovered
+36,62,Female,COPD,4,16,Recovered
+37,71,Female,Chronic Kidney Disease,1,9,Not Recovered
+38,55,Other,Stroke,3,23,Recovered
+39,13,Other,Depression,11,7,Recovered
+40,29,Other,Arthritis,2,16,Not Recovered
+41,77,Other,HIV/AIDS,1,6,Recovered
+42,74,Male,Heart Disease,10,6,Recovered
+43,81,Male,Hypertension,2,22,Recovered
+44,80,Female,HIV/AIDS,7,14,Not Recovered
+45,40,Female,Stroke,12,4,Not Recovered
+46,62,Male,Migraine,10,24,Recovered
+47,75,Female,HIV/AIDS,6,17,Not Recovered
+48,46,Female,Arthritis,3,24,Under Treatment
+49,74,Female,Obesity,5,5,Under Treatment
+50,85,Female,Chronic Kidney Disease,8,11,Recovered
+51,91,Female,Anxiety,3,24,Under Treatment
+52,65,Male,HIV/AIDS,8,4,Not Recovered
+53,84,Male,Hypertension,12,21,Under Treatment
+54,75,Female,Stroke,7,8,Recovered
+55,26,Other,Epilepsy,2,5,Recovered
+56,7,Male,Hepatitis,6,6,Recovered
+57,82,Male,Heart Disease,9,22,Not Recovered
+58,80,Female,Heart Disease,4,7,Under Treatment
+59,89,Female,Heart Disease,7,18,Recovered
+60,65,Male,Hepatitis,5,12,Recovered
+61,72,Other,Stroke,11,1,Under Treatment
+62,99,Female,Cancer,10,3,Not Recovered
+63,42,Other,Malaria,1,12,Not Recovered
+64,36,Female,Chronic Kidney Disease,12,12,Recovered
+65,72,Other,Tuberculosis,2,15,Recovered
+66,30,Other,COPD,6,21,Recovered
+67,65,Male,Alzheimer's,11,13,Under Treatment
+68,89,Female,HIV/AIDS,6,1,Under Treatment
+69,74,Female,Hypertension,11,4,Not Recovered
+70,89,Other,Depression,4,9,Not Recovered
+71,59,Female,Asthma,4,3,Under Treatment
+72,40,Female,Parkinson's,7,24,Under Treatment
+73,40,Other,Malaria,5,10,Recovered
+74,50,Male,Heart Disease,5,2,Under Treatment
+75,99,Female,Malaria,12,10,Under Treatment
+76,26,Other,Alzheimer's,11,19,Recovered
+77,39,Other,Diabetes,6,9,Recovered
+78,54,Other,Obesity,2,18,Not Recovered
+79,5,Male,Obesity,3,12,Recovered
+80,83,Female,Arthritis,5,16,Not Recovered
+81,52,Male,Diabetes,9,10,Not Recovered
+82,12,Male,Asthma,9,12,Under Treatment
+83,14,Female,Hypertension,11,8,Under Treatment
+84,71,Male,Heart Disease,8,16,Not Recovered
+85,85,Female,Obesity,8,12,Under Treatment
+86,51,Male,Stroke,7,1,Under Treatment
+87,46,Other,Parkinson's,7,1,Under Treatment
+88,44,Female,Parkinson's,9,20,Under Treatment
+89,78,Other,Heart Disease,4,15,Not Recovered
+90,53,Other,Chronic Kidney Disease,6,6,Recovered
+91,50,Other,Arthritis,12,4,Under Treatment
+92,74,Male,Alzheimer's,3,16,Not Recovered
+93,28,Male,COPD,1,6,Under Treatment
+94,52,Female,Asthma,8,23,Not Recovered
+95,21,Other,Obesity,6,18,Recovered
+96,71,Female,Heart Disease,8,2,Not Recovered
+97,72,Female,Heart Disease,9,5,Under Treatment
+98,39,Other,Hepatitis,9,3,Under Treatment
+99,20,Female,Hypertension,12,1,Recovered
+100,73,Male,Asthma,11,12,Under Treatment
+101,49,Other,Alzheimer's,7,21,Not Recovered
+102,90,Male,Stroke,12,23,Under Treatment
+103,22,Female,Asthma,2,3,Recovered
+104,74,Male,Anxiety,1,11,Under Treatment
+105,39,Female,Cancer,2,22,Not Recovered
+106,57,Other,Alzheimer's,8,14,Not Recovered
+107,70,Female,Hypertension,12,12,Under Treatment
+108,19,Female,Anxiety,6,11,Under Treatment
+109,70,Male,HIV/AIDS,8,6,Recovered
+110,91,Other,Chronic Kidney Disease,3,12,Recovered
+111,29,Male,Parkinson's,8,1,Not Recovered
+112,81,Female,Malaria,3,3,Not Recovered
+113,41,Other,Epilepsy,10,1,Under Treatment
+114,4,Female,Parkinson's,4,8,Not Recovered
+115,74,Male,Stroke,7,4,Under Treatment
+116,77,Other,Parkinson's,4,19,Under Treatment
+117,64,Male,Alzheimer's,6,8,Under Treatment
+118,76,Female,Migraine,9,13,Not Recovered
+119,81,Female,Obesity,7,15,Not Recovered
+120,22,Other,Alzheimer's,3,8,Under Treatment
+121,65,Male,Parkinson's,9,14,Under Treatment
+122,88,Other,HIV/AIDS,7,22,Under Treatment
+123,39,Other,Chronic Kidney Disease,10,21,Not Recovered
+124,27,Other,Alzheimer's,11,24,Not Recovered
+125,70,Male,COPD,7,6,Under Treatment
+126,99,Other,Diabetes,10,1,Not Recovered
+127,16,Female,Anxiety,5,11,Recovered
+128,28,Female,Asthma,1,8,Under Treatment
+129,35,Other,Parkinson's,7,11,Under Treatment
+130,10,Female,Depression,10,2,Under Treatment
+131,44,Female,Stroke,10,21,Recovered
+132,1,Male,Migraine,9,7,Not Recovered
+133,72,Other,Alzheimer's,11,11,Under Treatment
+134,77,Female,Migraine,4,12,Not Recovered
+135,53,Female,Hepatitis,10,8,Under Treatment
+136,40,Female,Anxiety,7,8,Not Recovered
+137,25,Male,Depression,4,14,Recovered
+138,16,Male,Stroke,9,12,Recovered
+139,60,Female,Arthritis,11,10,Under Treatment
+140,77,Other,HIV/AIDS,4,11,Under Treatment
+141,1,Male,COPD,4,21,Not Recovered
+142,24,Female,Arthritis,12,6,Recovered
+143,32,Female,Migraine,6,10,Not Recovered
+144,96,Female,Parkinson's,6,9,Recovered
+145,59,Female,Heart Disease,4,5,Under Treatment
+146,51,Male,Asthma,12,21,Recovered
+147,80,Male,Depression,2,22,Recovered
+148,39,Female,COPD,6,10,Under Treatment
+149,21,Male,COPD,6,15,Not Recovered
+150,89,Other,Hypertension,1,14,Under Treatment
+151,53,Female,Tuberculosis,9,9,Recovered
+152,88,Male,Hypertension,7,18,Recovered
+153,78,Male,Arthritis,1,10,Not Recovered
+154,17,Other,COPD,7,15,Recovered
+155,17,Female,Epilepsy,1,9,Under Treatment
+156,35,Male,Hepatitis,11,6,Recovered
+157,27,Male,Obesity,10,8,Not Recovered
+158,55,Male,Parkinson's,10,4,Under Treatment
+159,66,Other,Chronic Kidney Disease,2,9,Not Recovered
+160,96,Other,COPD,7,1,Not Recovered
+161,63,Other,Obesity,10,19,Not Recovered
+162,23,Female,HIV/AIDS,10,14,Under Treatment
+163,3,Female,Chronic Kidney Disease,8,14,Under Treatment
+164,64,Other,Alzheimer's,1,15,Recovered
+165,100,Male,Alzheimer's,3,9,Under Treatment
+166,67,Female,Arthritis,12,11,Under Treatment
+167,66,Other,Diabetes,4,1,Under Treatment
+168,62,Female,Heart Disease,3,11,Recovered
+169,20,Female,Alzheimer's,9,12,Not Recovered
+170,56,Female,Parkinson's,1,3,Under Treatment
+171,65,Male,Obesity,3,24,Recovered
+172,69,Other,Arthritis,11,11,Recovered
+173,68,Male,HIV/AIDS,4,22,Not Recovered
+174,10,Other,Chronic Kidney Disease,7,12,Recovered
+175,38,Other,Hypertension,10,18,Under Treatment
+176,33,Male,Migraine,11,7,Recovered
+177,56,Female,Tuberculosis,4,15,Recovered
+178,99,Female,Depression,5,11,Under Treatment
+179,61,Male,Asthma,8,20,Under Treatment
+180,85,Other,Heart Disease,9,23,Not Recovered
+181,16,Other,Malaria,6,21,Recovered
+182,13,Female,Diabetes,5,23,Recovered
+183,88,Other,HIV/AIDS,8,10,Not Recovered
+184,53,Male,Alzheimer's,4,6,Not Recovered
+185,31,Other,Diabetes,9,18,Under Treatment
+186,30,Male,Stroke,3,10,Recovered
+187,19,Other,Chronic Kidney Disease,2,11,Recovered
+188,37,Male,Heart Disease,10,17,Under Treatment
+189,65,Female,HIV/AIDS,2,2,Recovered
+190,45,Other,Parkinson's,5,9,Recovered
+191,19,Female,Heart Disease,9,10,Not Recovered
+192,59,Female,Obesity,12,6,Recovered
+193,32,Female,Parkinson's,9,6,Recovered
+194,20,Female,Cancer,5,6,Not Recovered
+195,29,Other,Arthritis,9,5,Under Treatment
+196,67,Male,Parkinson's,1,11,Not Recovered
+197,35,Other,HIV/AIDS,9,21,Under Treatment
+198,39,Female,COPD,9,20,Not Recovered
+199,56,Female,HIV/AIDS,10,9,Not Recovered
+200,8,Other,Heart Disease,11,24,Under Treatment
+201,5,Male,Epilepsy,5,14,Under Treatment
+202,38,Other,Arthritis,7,8,Under Treatment
+203,37,Other,Obesity,2,17,Recovered
+204,66,Male,Stroke,5,9,Recovered
+205,37,Other,Chronic Kidney Disease,11,14,Under Treatment
+206,32,Male,Hypertension,3,10,Under Treatment
+207,100,Female,Hypertension,7,22,Under Treatment
+208,26,Female,Malaria,11,9,Not Recovered
+209,3,Male,Epilepsy,3,8,Under Treatment
+210,39,Female,Tuberculosis,3,23,Recovered
+211,69,Other,Heart Disease,1,8,Not Recovered
+212,47,Female,Parkinson's,1,6,Not Recovered
+213,49,Male,Malaria,12,7,Not Recovered
+214,98,Male,Tuberculosis,7,23,Recovered
+215,16,Female,COPD,10,3,Not Recovered
+216,22,Female,Tuberculosis,12,17,Not Recovered
+217,34,Other,Cancer,6,24,Not Recovered
+218,78,Other,Depression,5,16,Recovered
+219,92,Male,Anxiety,6,1,Under Treatment
+220,43,Male,Asthma,3,6,Recovered
+221,92,Other,Stroke,9,15,Recovered
+222,82,Male,Diabetes,9,9,Under Treatment
+223,100,Other,Stroke,5,5,Under Treatment
+224,50,Female,Cancer,9,18,Not Recovered
+225,43,Other,Chronic Kidney Disease,4,17,Recovered
+226,43,Other,Arthritis,3,20,Under Treatment
+227,18,Male,Anxiety,2,20,Under Treatment
+228,64,Female,Cancer,5,11,Recovered
+229,98,Other,Obesity,9,12,Under Treatment
+230,71,Male,Migraine,6,13,Not Recovered
+231,43,Male,HIV/AIDS,1,24,Under Treatment
+232,13,Female,Asthma,2,17,Recovered
+233,66,Female,HIV/AIDS,1,18,Recovered
+234,10,Male,Tuberculosis,2,7,Under Treatment
+235,89,Female,COPD,9,8,Not Recovered
+236,50,Other,Cancer,1,23,Not Recovered
+237,60,Other,Chronic Kidney Disease,5,11,Not Recovered
+238,27,Female,Heart Disease,9,22,Not Recovered
+239,55,Other,Hypertension,4,18,Under Treatment
+240,11,Female,Depression,11,19,Recovered
+241,25,Female,Anxiety,4,7,Recovered
+242,87,Other,Anxiety,7,20,Under Treatment
+243,39,Male,Alzheimer's,8,8,Under Treatment
+244,10,Male,Obesity,2,24,Under Treatment
+245,88,Female,Cancer,7,13,Recovered
+246,17,Female,Hepatitis,10,13,Recovered
+247,76,Other,Hypertension,10,17,Not Recovered
+248,35,Other,Epilepsy,11,4,Not Recovered
+249,27,Male,Arthritis,8,15,Under Treatment
+250,41,Other,Epilepsy,6,20,Recovered
+251,56,Male,Alzheimer's,3,15,Recovered
+252,62,Female,Epilepsy,3,23,Recovered
+253,93,Female,Parkinson's,11,13,Not Recovered
+254,93,Other,Tuberculosis,12,21,Under Treatment
+255,100,Other,Heart Disease,9,23,Under Treatment
+256,19,Male,HIV/AIDS,3,1,Not Recovered
+257,83,Female,Stroke,10,4,Under Treatment
+258,45,Male,HIV/AIDS,8,16,Under Treatment
+259,36,Female,Stroke,5,6,Under Treatment
+260,65,Female,HIV/AIDS,3,1,Recovered
+261,50,Female,HIV/AIDS,3,14,Under Treatment
+262,67,Other,Migraine,3,1,Recovered
+263,86,Male,Malaria,3,15,Under Treatment
+264,12,Other,Chronic Kidney Disease,12,18,Recovered
+265,81,Male,Epilepsy,12,11,Recovered
+266,55,Other,Stroke,7,14,Not Recovered
+267,36,Male,Hepatitis,9,17,Under Treatment
+268,60,Female,COPD,10,15,Recovered
+269,1,Other,Parkinson's,5,14,Not Recovered
+270,94,Female,Diabetes,2,4,Under Treatment
+271,12,Male,Obesity,1,16,Under Treatment
+272,43,Male,Chronic Kidney Disease,6,22,Not Recovered
+273,44,Other,COPD,1,23,Not Recovered
+274,27,Other,Parkinson's,9,8,Not Recovered
+275,70,Other,Diabetes,10,9,Not Recovered
+276,8,Female,Stroke,9,14,Recovered
+277,77,Male,Migraine,5,1,Under Treatment
+278,70,Male,Parkinson's,9,16,Under Treatment
+279,86,Male,Hepatitis,4,9,Under Treatment
+280,51,Other,HIV/AIDS,10,24,Under Treatment
+281,42,Male,Tuberculosis,11,19,Under Treatment
+282,45,Male,COPD,11,20,Under Treatment
+283,65,Male,Cancer,1,19,Recovered
+284,68,Other,Depression,5,23,Under Treatment
+285,41,Male,Obesity,3,15,Under Treatment
+286,74,Male,COPD,2,5,Under Treatment
+287,78,Other,COPD,11,24,Under Treatment
+288,40,Female,Diabetes,3,5,Under Treatment
+289,54,Other,Heart Disease,8,21,Under Treatment
+290,32,Female,Arthritis,1,19,Recovered
+291,21,Other,Heart Disease,2,14,Recovered
+292,29,Male,Diabetes,7,5,Recovered
+293,27,Other,Migraine,10,9,Under Treatment
+294,34,Other,Anxiety,9,7,Not Recovered
+295,44,Female,Stroke,3,24,Under Treatment
+296,65,Female,Asthma,3,1,Under Treatment
+297,8,Female,Malaria,4,17,Recovered
+298,85,Female,Diabetes,5,5,Recovered
+299,88,Other,Hypertension,10,2,Recovered
+300,29,Male,Chronic Kidney Disease,1,19,Recovered
+301,37,Male,Anxiety,11,17,Under Treatment
+302,83,Male,Arthritis,10,9,Recovered
+303,27,Female,COPD,4,14,Recovered
+304,11,Female,Parkinson's,2,10,Not Recovered
+305,2,Male,Alzheimer's,12,1,Not Recovered
+306,48,Other,Diabetes,6,13,Under Treatment
+307,3,Other,Alzheimer's,1,14,Under Treatment
+308,78,Other,Stroke,12,11,Under Treatment
+309,83,Other,Anxiety,12,15,Not Recovered
+310,87,Male,Arthritis,5,2,Not Recovered
+311,57,Other,Hypertension,12,3,Under Treatment
+312,41,Male,Cancer,11,6,Recovered
+313,97,Other,Arthritis,3,7,Not Recovered
+314,90,Female,Depression,9,9,Not Recovered
+315,35,Female,HIV/AIDS,9,14,Not Recovered
+316,65,Other,Hepatitis,6,1,Recovered
+317,88,Male,Parkinson's,4,21,Recovered
+318,90,Other,Chronic Kidney Disease,6,9,Not Recovered
+319,30,Male,Anxiety,2,6,Recovered
+320,35,Male,Depression,5,12,Not Recovered
+321,95,Female,Alzheimer's,7,3,Under Treatment
+322,17,Other,Anxiety,11,11,Recovered
+323,94,Other,Stroke,11,3,Not Recovered
+324,53,Female,Epilepsy,1,24,Recovered
+325,67,Female,Stroke,7,6,Under Treatment
+326,28,Other,Arthritis,1,6,Recovered
+327,74,Male,Chronic Kidney Disease,5,15,Not Recovered
+328,49,Male,Parkinson's,12,1,Not Recovered
+329,47,Other,Hypertension,2,12,Under Treatment
+330,54,Male,COPD,11,8,Not Recovered
+331,82,Other,Stroke,9,8,Not Recovered
+332,37,Other,Cancer,1,7,Under Treatment
+333,56,Other,Parkinson's,12,11,Under Treatment
+334,59,Male,Cancer,4,16,Recovered
+335,46,Other,Asthma,5,4,Not Recovered
+336,25,Male,Migraine,5,9,Under Treatment
+337,42,Female,Migraine,2,1,Recovered
+338,42,Female,Heart Disease,12,15,Under Treatment
+339,61,Other,Hypertension,1,10,Under Treatment
+340,73,Other,Tuberculosis,11,18,Under Treatment
+341,87,Male,HIV/AIDS,10,10,Not Recovered
+342,78,Female,Epilepsy,9,22,Not Recovered
+343,80,Other,Epilepsy,5,17,Not Recovered
+344,32,Other,Cancer,10,1,Under Treatment
+345,71,Male,Hepatitis,2,8,Under Treatment
+346,39,Male,Arthritis,12,10,Recovered
+347,95,Other,Asthma,8,17,Not Recovered
+348,78,Female,Asthma,3,2,Under Treatment
+349,11,Male,Stroke,8,24,Recovered
+350,15,Other,Depression,6,11,Under Treatment
+351,53,Female,Obesity,11,19,Not Recovered
+352,9,Male,Hypertension,3,17,Not Recovered
+353,4,Other,Obesity,10,6,Not Recovered
+354,28,Female,Parkinson's,10,10,Recovered
+355,4,Male,Migraine,1,22,Under Treatment
+356,72,Female,Malaria,12,20,Under Treatment
+357,64,Other,Hypertension,7,7,Recovered
+358,43,Other,Alzheimer's,7,4,Recovered
+359,41,Male,Hypertension,9,17,Not Recovered
+360,43,Female,HIV/AIDS,8,20,Not Recovered
+361,90,Other,Alzheimer's,5,2,Not Recovered
+362,93,Female,Anxiety,11,2,Not Recovered
+363,47,Other,Malaria,4,7,Recovered
+364,69,Other,Anxiety,6,12,Recovered
+365,48,Other,Obesity,3,21,Recovered
+366,45,Female,Cancer,2,12,Under Treatment
+367,71,Male,Epilepsy,8,11,Under Treatment
+368,80,Other,Tuberculosis,12,23,Recovered
+369,29,Female,Migraine,6,6,Not Recovered
+370,60,Male,Malaria,2,16,Not Recovered
+371,21,Female,Cancer,3,15,Not Recovered
+372,3,Male,Arthritis,7,3,Recovered
+373,62,Other,Asthma,11,3,Recovered
+374,55,Female,Stroke,7,5,Not Recovered
+375,59,Male,Alzheimer's,6,21,Not Recovered
+376,18,Other,Epilepsy,10,6,Not Recovered
+377,57,Female,Obesity,4,11,Recovered
+378,87,Male,Arthritis,12,20,Not Recovered
+379,31,Female,Migraine,2,6,Not Recovered
+380,23,Other,Obesity,8,17,Under Treatment
+381,1,Female,Hypertension,6,20,Under Treatment
+382,83,Other,Heart Disease,10,1,Under Treatment
+383,39,Other,Chronic Kidney Disease,8,2,Recovered
+384,48,Male,Anxiety,4,10,Recovered
+385,17,Male,HIV/AIDS,1,2,Not Recovered
+386,15,Female,Asthma,10,20,Not Recovered
+387,54,Female,Anxiety,8,21,Under Treatment
+388,35,Male,Depression,6,15,Not Recovered
+389,30,Other,Heart Disease,3,10,Not Recovered
+390,30,Other,Stroke,5,4,Not Recovered
+391,24,Female,Obesity,6,11,Recovered
+392,54,Other,Malaria,7,2,Recovered
+393,74,Other,Stroke,8,11,Recovered
+394,32,Male,Malaria,11,22,Recovered
+395,62,Female,COPD,4,18,Under Treatment
+396,46,Female,Depression,5,24,Under Treatment
+397,55,Other,Tuberculosis,4,2,Not Recovered
+398,77,Male,Arthritis,8,16,Not Recovered
+399,50,Male,Anxiety,2,20,Under Treatment
+400,36,Male,Heart Disease,12,13,Under Treatment
+401,14,Other,Tuberculosis,1,13,Under Treatment
+402,64,Female,Chronic Kidney Disease,6,15,Recovered
+403,4,Other,Anxiety,9,15,Not Recovered
+404,2,Male,Diabetes,12,14,Recovered
+405,6,Male,Arthritis,5,9,Recovered
+406,64,Male,Epilepsy,3,21,Recovered
+407,89,Female,HIV/AIDS,7,14,Not Recovered
+408,8,Female,Epilepsy,4,18,Not Recovered
+409,44,Female,Chronic Kidney Disease,9,8,Not Recovered
+410,12,Other,Arthritis,3,15,Not Recovered
+411,50,Female,Anxiety,10,7,Recovered
+412,9,Female,Asthma,4,15,Recovered
+413,43,Female,Heart Disease,2,8,Under Treatment
+414,25,Male,Arthritis,9,1,Under Treatment
+415,61,Other,Cancer,5,1,Recovered
+416,22,Female,Hypertension,9,20,Not Recovered
+417,19,Female,Hypertension,2,22,Not Recovered
+418,7,Other,Asthma,10,17,Recovered
+419,2,Female,Malaria,1,24,Not Recovered
+420,23,Female,Obesity,2,11,Under Treatment
+421,31,Male,Epilepsy,2,15,Recovered
+422,71,Male,Arthritis,6,2,Recovered
+423,19,Other,Alzheimer's,6,14,Under Treatment
+424,15,Male,COPD,11,5,Recovered
+425,82,Other,Parkinson's,8,1,Not Recovered
+426,62,Other,Cancer,9,22,Recovered
+427,82,Male,Chronic Kidney Disease,8,13,Not Recovered
+428,16,Other,Chronic Kidney Disease,10,19,Recovered
+429,49,Male,HIV/AIDS,10,14,Not Recovered
+430,12,Female,Epilepsy,3,16,Recovered
+431,30,Female,Hepatitis,5,1,Under Treatment
+432,41,Male,Hypertension,6,9,Recovered
+433,61,Other,Chronic Kidney Disease,1,24,Under Treatment
+434,2,Female,Migraine,9,16,Recovered
+435,78,Male,Stroke,1,8,Not Recovered
+436,35,Other,Hypertension,1,1,Under Treatment
+437,11,Female,Malaria,8,1,Not Recovered
+438,37,Other,Arthritis,1,2,Not Recovered
+439,12,Female,Parkinson's,10,18,Under Treatment
+440,76,Female,Tuberculosis,4,23,Under Treatment
+441,77,Male,Obesity,8,23,Under Treatment
+442,33,Other,Asthma,7,18,Recovered
+443,77,Other,Tuberculosis,12,17,Not Recovered
+444,58,Female,Tuberculosis,8,2,Not Recovered
+445,46,Female,Alzheimer's,1,22,Recovered
+446,17,Female,Malaria,5,9,Under Treatment
+447,33,Other,Malaria,5,15,Not Recovered
+448,16,Other,Alzheimer's,7,20,Recovered
+449,17,Other,HIV/AIDS,6,17,Under Treatment
+450,31,Female,Depression,6,12,Not Recovered
+451,21,Other,Diabetes,4,11,Under Treatment
+452,29,Female,Depression,11,4,Recovered
+453,73,Male,Stroke,2,16,Under Treatment
+454,7,Male,Stroke,12,16,Recovered
+455,82,Other,Parkinson's,9,1,Recovered
+456,45,Male,Stroke,5,11,Under Treatment
+457,37,Male,Cancer,2,24,Recovered
+458,70,Male,Stroke,9,16,Not Recovered
+459,27,Male,Arthritis,4,21,Recovered
+460,28,Other,Chronic Kidney Disease,4,15,Recovered
+461,63,Other,Anxiety,8,13,Recovered
+462,1,Female,Asthma,4,11,Under Treatment
+463,24,Other,Hypertension,2,17,Under Treatment
+464,79,Female,Tuberculosis,7,8,Under Treatment
+465,47,Female,Alzheimer's,10,15,Recovered
+466,32,Female,Parkinson's,9,4,Under Treatment
+467,60,Male,Obesity,11,2,Under Treatment
+468,77,Female,Migraine,9,19,Not Recovered
+469,61,Female,Epilepsy,3,19,Not Recovered
+470,35,Female,HIV/AIDS,4,9,Under Treatment
+471,73,Female,Alzheimer's,5,23,Not Recovered
+472,17,Female,Diabetes,2,18,Not Recovered
+473,8,Female,COPD,12,24,Under Treatment
+474,37,Female,Stroke,10,19,Not Recovered
+475,64,Male,HIV/AIDS,7,5,Under Treatment
+476,31,Female,Parkinson's,1,19,Recovered
+477,40,Other,Migraine,12,22,Recovered
+478,66,Male,Arthritis,8,8,Not Recovered
+479,33,Female,Diabetes,7,16,Recovered
+480,80,Male,Diabetes,6,21,Not Recovered
+481,99,Male,Epilepsy,7,23,Not Recovered
+482,58,Other,Epilepsy,12,20,Recovered
+483,65,Male,HIV/AIDS,4,9,Not Recovered
+484,31,Male,Tuberculosis,4,5,Recovered
+485,47,Female,Arthritis,3,14,Recovered
+486,28,Other,Alzheimer's,4,4,Not Recovered
+487,37,Other,Stroke,5,12,Recovered
+488,60,Other,Malaria,8,3,Recovered
+489,43,Other,HIV/AIDS,11,1,Not Recovered
+490,62,Female,Heart Disease,3,16,Under Treatment
+491,4,Male,Epilepsy,11,14,Under Treatment
+492,16,Male,Alzheimer's,8,21,Recovered
+493,54,Female,Tuberculosis,12,10,Not Recovered
+494,51,Other,Alzheimer's,6,19,Recovered
+495,61,Female,Arthritis,11,23,Under Treatment
+496,11,Female,Hepatitis,10,23,Under Treatment
+497,45,Other,Malaria,5,18,Under Treatment
+498,29,Male,Epilepsy,9,3,Not Recovered
+499,7,Other,Anxiety,2,7,Recovered
+500,49,Other,Malaria,6,19,Not Recovered
+501,18,Female,Alzheimer's,7,6,Recovered
+502,24,Female,Stroke,7,14,Not Recovered
+503,63,Female,Parkinson's,6,17,Recovered
+504,41,Other,Tuberculosis,3,11,Not Recovered
+505,23,Male,Anxiety,12,18,Recovered
+506,66,Male,Anxiety,2,23,Recovered
+507,65,Other,Alzheimer's,4,20,Under Treatment
+508,86,Other,Migraine,4,21,Under Treatment
+509,31,Female,Tuberculosis,6,17,Under Treatment
+510,40,Male,Obesity,5,8,Under Treatment
+511,17,Female,Migraine,9,12,Under Treatment
+512,57,Female,HIV/AIDS,5,9,Not Recovered
+513,30,Other,Migraine,12,12,Not Recovered
+514,46,Female,Alzheimer's,6,21,Not Recovered
+515,77,Female,Diabetes,8,9,Under Treatment
+516,50,Other,Diabetes,2,11,Under Treatment
+517,6,Female,Heart Disease,10,14,Recovered
+518,33,Female,COPD,10,10,Under Treatment
+519,55,Other,Hepatitis,5,6,Not Recovered
+520,90,Other,Migraine,6,24,Recovered
+521,6,Male,Malaria,7,21,Under Treatment
+522,69,Male,Stroke,2,24,Not Recovered
+523,88,Other,HIV/AIDS,6,11,Under Treatment
+524,54,Male,Cancer,9,4,Under Treatment
+525,22,Male,Heart Disease,4,21,Recovered
+526,66,Other,Arthritis,1,8,Under Treatment
+527,93,Male,Migraine,3,20,Recovered
+528,94,Male,HIV/AIDS,4,1,Recovered
+529,62,Male,Depression,11,3,Under Treatment
+530,8,Other,Alzheimer's,6,12,Under Treatment
+531,32,Male,Heart Disease,6,22,Under Treatment
+532,8,Other,Cancer,5,19,Recovered
+533,20,Other,Hypertension,3,17,Under Treatment
+534,51,Female,Epilepsy,1,3,Under Treatment
+535,96,Other,Asthma,7,17,Recovered
+536,72,Male,Chronic Kidney Disease,9,9,Under Treatment
+537,93,Male,Asthma,6,15,Recovered
+538,29,Male,Chronic Kidney Disease,8,17,Recovered
+539,51,Other,Migraine,10,18,Not Recovered
+540,48,Male,Malaria,4,2,Under Treatment
+541,44,Other,Migraine,4,24,Under Treatment
+542,31,Male,Tuberculosis,3,23,Not Recovered
+543,80,Other,Heart Disease,6,21,Under Treatment
+544,50,Male,Migraine,12,7,Not Recovered
+545,61,Male,Epilepsy,7,16,Not Recovered
+546,95,Male,Asthma,8,11,Recovered
+547,16,Male,Anxiety,10,19,Under Treatment
+548,81,Other,Depression,12,2,Not Recovered
+549,87,Other,Depression,1,13,Not Recovered
+550,83,Other,HIV/AIDS,6,24,Under Treatment
+551,72,Other,Chronic Kidney Disease,9,11,Recovered
+552,50,Male,Depression,6,2,Recovered
+553,12,Other,Migraine,3,20,Not Recovered
+554,55,Male,Heart Disease,6,4,Under Treatment
+555,53,Female,Epilepsy,9,3,Not Recovered
+556,47,Other,HIV/AIDS,12,7,Not Recovered
+557,8,Female,Heart Disease,8,16,Not Recovered
+558,47,Other,Asthma,1,2,Under Treatment
+559,100,Female,Obesity,2,10,Under Treatment
+560,48,Female,Stroke,6,21,Under Treatment
+561,97,Other,Heart Disease,4,10,Recovered
+562,93,Female,COPD,1,3,Not Recovered
+563,55,Female,HIV/AIDS,12,6,Not Recovered
+564,56,Female,Stroke,8,12,Not Recovered
+565,75,Male,Hypertension,3,5,Not Recovered
+566,28,Male,Cancer,2,23,Recovered
+567,31,Male,Migraine,5,18,Not Recovered
+568,1,Female,Malaria,1,8,Recovered
+569,33,Male,Anxiety,10,8,Not Recovered
+570,40,Female,Cancer,7,20,Under Treatment
+571,16,Female,Diabetes,3,17,Under Treatment
+572,52,Female,Depression,5,15,Under Treatment
+573,76,Other,Hepatitis,8,5,Recovered
+574,2,Other,Arthritis,8,15,Under Treatment
+575,39,Female,Asthma,5,19,Recovered
+576,88,Female,Hypertension,5,12,Recovered
+577,50,Other,Asthma,7,8,Not Recovered
+578,21,Female,Arthritis,2,9,Not Recovered
+579,37,Female,Stroke,3,13,Recovered
+580,17,Female,Cancer,2,18,Under Treatment
+581,65,Other,Migraine,9,2,Under Treatment
+582,14,Other,Diabetes,2,20,Not Recovered
+583,65,Male,Arthritis,4,19,Not Recovered
+584,31,Male,Chronic Kidney Disease,12,9,Recovered
+585,50,Other,COPD,7,12,Not Recovered
+586,34,Male,Cancer,12,14,Not Recovered
+587,87,Female,Diabetes,8,8,Not Recovered
+588,45,Other,HIV/AIDS,10,21,Under Treatment
+589,90,Other,Hepatitis,9,21,Under Treatment
+590,6,Male,Asthma,6,10,Under Treatment
+591,76,Other,Depression,6,22,Under Treatment
+592,69,Female,Cancer,8,9,Recovered
+593,82,Other,Hypertension,6,21,Under Treatment
+594,86,Other,COPD,10,2,Recovered
+595,46,Female,Diabetes,10,21,Under Treatment
+596,94,Female,Hepatitis,12,23,Under Treatment
+597,97,Male,Heart Disease,5,8,Recovered
+598,44,Other,Hypertension,12,4,Under Treatment
+599,96,Female,Asthma,5,9,Not Recovered
+600,52,Male,Migraine,3,3,Under Treatment
+601,31,Other,Stroke,1,9,Under Treatment
+602,77,Other,Tuberculosis,5,15,Not Recovered
+603,79,Other,Cancer,8,20,Recovered
+604,70,Other,Hepatitis,1,5,Not Recovered
+605,51,Other,Alzheimer's,5,11,Not Recovered
+606,10,Female,Heart Disease,5,3,Under Treatment
+607,75,Male,Epilepsy,2,3,Under Treatment
+608,47,Female,Cancer,4,2,Under Treatment
+609,6,Female,Diabetes,2,15,Recovered
+610,66,Female,HIV/AIDS,4,21,Not Recovered
+611,38,Female,Anxiety,9,6,Not Recovered
+612,52,Female,Asthma,2,18,Not Recovered
+613,4,Female,Diabetes,7,7,Recovered
+614,81,Female,Hepatitis,9,23,Under Treatment
+615,10,Other,Hepatitis,6,14,Under Treatment
+616,40,Female,Tuberculosis,7,13,Recovered
+617,74,Other,Chronic Kidney Disease,8,22,Not Recovered
+618,67,Male,Migraine,12,7,Not Recovered
+619,76,Female,Chronic Kidney Disease,6,20,Not Recovered
+620,31,Male,Parkinson's,4,20,Under Treatment
+621,32,Other,COPD,11,15,Under Treatment
+622,13,Other,Chronic Kidney Disease,7,21,Not Recovered
+623,30,Male,Diabetes,5,1,Under Treatment
+624,52,Female,Heart Disease,3,9,Recovered
+625,56,Male,Alzheimer's,10,6,Under Treatment
+626,77,Other,Anxiety,2,14,Not Recovered
+627,38,Male,Heart Disease,7,9,Recovered
+628,88,Male,Chronic Kidney Disease,12,21,Not Recovered
+629,96,Male,Chronic Kidney Disease,6,5,Not Recovered
+630,10,Other,Chronic Kidney Disease,10,17,Not Recovered
+631,53,Female,COPD,5,19,Not Recovered
+632,40,Other,Heart Disease,7,24,Recovered
+633,76,Male,Tuberculosis,1,22,Not Recovered
+634,91,Male,HIV/AIDS,12,15,Under Treatment
+635,54,Other,HIV/AIDS,8,15,Not Recovered
+636,52,Other,Epilepsy,1,24,Under Treatment
+637,5,Female,Heart Disease,5,15,Under Treatment
+638,79,Female,Arthritis,6,4,Recovered
+639,31,Other,Anxiety,2,11,Not Recovered
+640,25,Female,Parkinson's,5,18,Under Treatment
+641,64,Other,Epilepsy,4,11,Under Treatment
+642,33,Other,Anxiety,1,22,Not Recovered
+643,57,Other,Diabetes,9,6,Not Recovered
+644,67,Male,HIV/AIDS,7,21,Under Treatment
+645,36,Female,Diabetes,7,14,Under Treatment
+646,26,Female,Cancer,10,17,Under Treatment
+647,4,Female,Asthma,5,9,Not Recovered
+648,61,Female,Malaria,1,22,Under Treatment
+649,27,Other,Cancer,7,12,Not Recovered
+650,98,Male,Malaria,2,13,Recovered
+651,36,Female,COPD,7,7,Not Recovered
+652,89,Other,Obesity,6,5,Recovered
+653,16,Other,Alzheimer's,6,12,Not Recovered
+654,53,Other,Hypertension,8,8,Under Treatment
+655,10,Other,Migraine,1,24,Not Recovered
+656,77,Other,Diabetes,5,8,Not Recovered
+657,8,Other,Cancer,12,10,Not Recovered
+658,72,Male,Arthritis,9,1,Not Recovered
+659,98,Other,Obesity,6,9,Recovered
+660,33,Female,Hypertension,7,9,Recovered
+661,9,Other,Epilepsy,1,11,Recovered
+662,26,Male,COPD,10,4,Recovered
+663,92,Other,Epilepsy,9,11,Not Recovered
+664,23,Other,Epilepsy,7,9,Under Treatment
+665,72,Female,Alzheimer's,2,5,Under Treatment
+666,17,Other,Arthritis,9,22,Not Recovered
+667,20,Female,Cancer,2,2,Not Recovered
+668,95,Other,Hepatitis,5,18,Under Treatment
+669,20,Male,Malaria,3,1,Under Treatment
+670,14,Other,Chronic Kidney Disease,5,18,Not Recovered
+671,54,Female,Arthritis,3,13,Under Treatment
+672,52,Other,Stroke,3,3,Recovered
+673,9,Female,Alzheimer's,10,21,Under Treatment
+674,52,Female,Tuberculosis,4,15,Under Treatment
+675,4,Male,Stroke,11,12,Not Recovered
+676,5,Other,Parkinson's,12,1,Recovered
+677,10,Other,Tuberculosis,10,5,Not Recovered
+678,79,Other,Migraine,5,20,Not Recovered
+679,47,Other,Cancer,4,7,Under Treatment
+680,23,Male,Depression,10,22,Under Treatment
+681,45,Female,Depression,1,23,Recovered
+682,79,Male,Cancer,5,4,Not Recovered
+683,13,Female,Epilepsy,10,20,Under Treatment
+684,49,Female,COPD,8,4,Under Treatment
+685,22,Female,Stroke,6,12,Under Treatment
+686,48,Other,Cancer,9,16,Recovered
+687,89,Other,HIV/AIDS,9,11,Not Recovered
+688,85,Male,Parkinson's,2,13,Recovered
+689,18,Female,Hypertension,9,13,Not Recovered
+690,10,Female,Obesity,6,6,Not Recovered
+691,88,Other,Migraine,1,9,Recovered
+692,66,Other,Anxiety,1,21,Recovered
+693,94,Other,Hypertension,5,19,Under Treatment
+694,64,Female,Obesity,8,7,Not Recovered
+695,96,Male,Cancer,11,23,Not Recovered
+696,58,Other,Alzheimer's,2,9,Not Recovered
+697,25,Male,Arthritis,5,12,Under Treatment
+698,82,Other,Alzheimer's,1,7,Not Recovered
+699,68,Male,Heart Disease,9,14,Not Recovered
+700,80,Male,Hepatitis,9,5,Under Treatment
+701,91,Male,Hepatitis,3,23,Under Treatment
+702,50,Female,Hepatitis,2,4,Under Treatment
+703,26,Other,Alzheimer's,7,2,Not Recovered
+704,29,Female,Heart Disease,7,2,Under Treatment
+705,39,Female,Heart Disease,8,17,Under Treatment
+706,48,Other,Obesity,3,12,Under Treatment
+707,6,Other,Hypertension,11,13,Not Recovered
+708,45,Male,Stroke,7,2,Under Treatment
+709,82,Male,Depression,9,3,Not Recovered
+710,42,Other,Hepatitis,9,1,Under Treatment
+711,80,Male,Depression,10,11,Under Treatment
+712,55,Male,Malaria,8,8,Recovered
+713,63,Other,Depression,12,14,Under Treatment
+714,36,Female,Alzheimer's,7,13,Under Treatment
+715,35,Other,Depression,8,12,Under Treatment
+716,73,Male,Migraine,1,23,Recovered
+717,83,Female,Diabetes,6,12,Recovered
+718,5,Female,Chronic Kidney Disease,5,14,Recovered
+719,64,Female,Arthritis,2,12,Not Recovered
+720,30,Male,Stroke,8,9,Recovered
+721,15,Female,Heart Disease,10,9,Not Recovered
+722,80,Male,COPD,9,21,Under Treatment
+723,68,Male,Diabetes,8,2,Under Treatment
+724,89,Female,Depression,9,5,Recovered
+725,100,Male,Hypertension,8,21,Recovered
+726,39,Male,HIV/AIDS,2,24,Recovered
+727,58,Other,Migraine,12,8,Under Treatment
+728,84,Female,Diabetes,7,11,Not Recovered
+729,43,Male,Asthma,12,23,Not Recovered
+730,43,Female,Malaria,4,22,Recovered
+731,49,Other,Anxiety,11,12,Recovered
+732,61,Other,Hepatitis,12,17,Recovered
+733,33,Male,Heart Disease,11,21,Recovered
+734,14,Female,Arthritis,4,19,Under Treatment
+735,78,Male,HIV/AIDS,12,21,Recovered
+736,29,Female,COPD,5,15,Under Treatment
+737,36,Other,Hypertension,12,8,Under Treatment
+738,10,Other,Cancer,10,6,Not Recovered
+739,70,Female,Obesity,5,14,Not Recovered
+740,41,Male,COPD,11,14,Not Recovered
+741,20,Other,Malaria,1,3,Not Recovered
+742,1,Other,Chronic Kidney Disease,2,24,Recovered
+743,15,Male,COPD,11,7,Recovered
+744,60,Female,Anxiety,2,9,Recovered
+745,2,Other,Migraine,7,6,Under Treatment
+746,99,Male,Arthritis,3,4,Under Treatment
+747,18,Female,Hypertension,11,10,Under Treatment
+748,68,Female,Diabetes,12,13,Not Recovered
+749,58,Female,Malaria,8,14,Under Treatment
+750,77,Male,Obesity,3,15,Not Recovered
+751,57,Male,Malaria,8,4,Recovered
+752,87,Other,Epilepsy,10,17,Under Treatment
+753,37,Male,Hepatitis,10,11,Recovered
+754,46,Male,Diabetes,3,13,Under Treatment
+755,18,Female,Hypertension,5,6,Recovered
+756,97,Male,Diabetes,12,20,Under Treatment
+757,14,Female,Parkinson's,2,6,Recovered
+758,23,Female,Parkinson's,2,19,Under Treatment
+759,2,Female,Cancer,3,24,Under Treatment
+760,69,Male,Heart Disease,8,21,Under Treatment
+761,3,Other,Migraine,10,9,Under Treatment
+762,43,Male,Asthma,7,4,Under Treatment
+763,98,Other,Malaria,12,1,Recovered
+764,72,Male,Alzheimer's,12,13,Under Treatment
+765,99,Female,Hypertension,11,19,Not Recovered
+766,86,Female,Obesity,5,22,Recovered
+767,15,Female,Obesity,6,6,Under Treatment
+768,48,Male,Tuberculosis,7,15,Under Treatment
+769,51,Male,Hepatitis,3,19,Recovered
+770,27,Female,Epilepsy,12,17,Recovered
+771,32,Male,Hepatitis,7,23,Recovered
+772,97,Female,Arthritis,7,1,Under Treatment
+773,22,Other,Hepatitis,7,18,Recovered
+774,44,Female,Diabetes,6,21,Not Recovered
+775,6,Male,Hepatitis,9,6,Recovered
+776,2,Female,Cancer,10,14,Recovered
+777,32,Female,Chronic Kidney Disease,5,12,Not Recovered
+778,79,Female,Parkinson's,9,24,Under Treatment
+779,25,Other,Epilepsy,3,21,Under Treatment
+780,57,Female,Migraine,1,2,Not Recovered
+781,23,Female,Anxiety,10,22,Under Treatment
+782,2,Female,HIV/AIDS,11,24,Not Recovered
+783,84,Other,Cancer,1,19,Not Recovered
+784,20,Other,Diabetes,10,20,Under Treatment
+785,63,Female,Asthma,1,23,Under Treatment
+786,55,Female,Depression,5,14,Under Treatment
+787,68,Female,Arthritis,3,16,Recovered
+788,77,Female,Epilepsy,11,14,Under Treatment
+789,9,Other,Hepatitis,6,1,Recovered
+790,47,Male,COPD,6,3,Not Recovered
+791,95,Female,Hepatitis,6,22,Not Recovered
+792,65,Male,Heart Disease,7,10,Not Recovered
+793,58,Other,Diabetes,2,21,Not Recovered
+794,99,Male,Malaria,1,10,Recovered
+795,80,Female,Epilepsy,2,10,Not Recovered
+796,31,Other,Diabetes,10,23,Under Treatment
+797,18,Male,Diabetes,1,2,Under Treatment
+798,31,Other,Parkinson's,9,5,Recovered
+799,30,Female,Hepatitis,1,6,Recovered
+800,6,Male,Migraine,7,22,Not Recovered
+801,56,Other,Parkinson's,6,1,Recovered
+802,55,Female,Arthritis,3,14,Under Treatment
+803,28,Male,Hypertension,2,23,Under Treatment
+804,69,Male,Malaria,6,14,Under Treatment
+805,84,Other,Anxiety,6,14,Under Treatment
+806,58,Female,Malaria,3,20,Under Treatment
+807,10,Other,Migraine,11,4,Under Treatment
+808,5,Male,Migraine,5,20,Not Recovered
+809,7,Female,Asthma,5,5,Not Recovered
+810,57,Male,Cancer,11,16,Not Recovered
+811,66,Female,Hepatitis,2,22,Not Recovered
+812,98,Female,Tuberculosis,12,17,Under Treatment
+813,62,Male,Asthma,12,19,Not Recovered
+814,85,Female,Malaria,8,15,Not Recovered
+815,71,Female,Alzheimer's,9,7,Under Treatment
+816,56,Male,Hepatitis,2,4,Under Treatment
+817,98,Other,COPD,10,13,Not Recovered
+818,63,Female,Cancer,4,20,Recovered
+819,51,Other,Asthma,11,14,Recovered
+820,18,Female,Tuberculosis,10,20,Recovered
+821,33,Other,Hypertension,4,19,Under Treatment
+822,57,Other,Depression,8,4,Under Treatment
+823,44,Female,Cancer,9,4,Under Treatment
+824,56,Male,HIV/AIDS,2,22,Recovered
+825,41,Male,Chronic Kidney Disease,8,20,Under Treatment
+826,49,Male,Diabetes,2,2,Under Treatment
+827,49,Female,HIV/AIDS,7,3,Not Recovered
+828,85,Male,Epilepsy,1,16,Not Recovered
+829,93,Female,Hepatitis,1,24,Under Treatment
+830,60,Male,Epilepsy,1,21,Under Treatment
+831,9,Other,Arthritis,11,20,Not Recovered
+832,31,Other,Asthma,3,7,Under Treatment
+833,15,Other,Asthma,8,12,Recovered
+834,12,Male,HIV/AIDS,10,7,Not Recovered
+835,56,Female,Diabetes,7,16,Not Recovered
+836,74,Male,Epilepsy,7,11,Under Treatment
+837,76,Other,Arthritis,3,12,Under Treatment
+838,93,Male,Hypertension,7,17,Under Treatment
+839,33,Male,Malaria,4,23,Not Recovered
+840,70,Female,Hepatitis,5,8,Recovered
+841,14,Other,Epilepsy,11,12,Under Treatment
+842,28,Other,Hypertension,2,24,Under Treatment
+843,19,Other,Obesity,11,14,Not Recovered
+844,54,Other,Tuberculosis,2,4,Recovered
+845,67,Other,Hypertension,5,1,Recovered
+846,67,Female,Arthritis,7,13,Not Recovered
+847,11,Female,Alzheimer's,10,16,Under Treatment
+848,92,Other,Arthritis,11,15,Recovered
+849,25,Male,Parkinson's,12,14,Under Treatment
+850,86,Male,COPD,4,14,Under Treatment
+851,92,Other,Cancer,3,10,Not Recovered
+852,94,Other,Depression,3,20,Under Treatment
+853,68,Male,Parkinson's,8,20,Under Treatment
+854,16,Other,Malaria,9,22,Not Recovered
+855,51,Other,Arthritis,1,22,Not Recovered
+856,89,Other,Cancer,11,7,Under Treatment
+857,78,Other,Diabetes,11,11,Recovered
+858,46,Other,Asthma,8,18,Under Treatment
+859,39,Male,Migraine,4,24,Recovered
+860,42,Other,Stroke,11,10,Under Treatment
+861,38,Other,Depression,9,12,Under Treatment
+862,97,Male,Hepatitis,11,7,Not Recovered
+863,94,Male,HIV/AIDS,12,6,Recovered
+864,63,Other,Alzheimer's,11,17,Not Recovered
+865,19,Other,Obesity,7,10,Recovered
+866,78,Female,Stroke,8,11,Recovered
+867,6,Male,Epilepsy,1,1,Recovered
+868,78,Male,Asthma,9,19,Not Recovered
+869,4,Male,HIV/AIDS,1,6,Not Recovered
+870,72,Male,Migraine,7,4,Not Recovered
+871,39,Female,Epilepsy,6,18,Recovered
+872,37,Female,Stroke,3,21,Under Treatment
+873,29,Male,Obesity,9,2,Under Treatment
+874,8,Female,Migraine,3,13,Recovered
+875,25,Other,Diabetes,4,11,Recovered
+876,56,Male,Stroke,1,12,Recovered
+877,52,Female,Anxiety,2,23,Under Treatment
+878,76,Other,Cancer,12,10,Under Treatment
+879,8,Female,Heart Disease,12,17,Not Recovered
+880,67,Female,Epilepsy,10,19,Under Treatment
+881,83,Female,Hypertension,10,16,Not Recovered
+882,86,Female,Migraine,5,23,Under Treatment
+883,30,Female,Epilepsy,3,3,Under Treatment
+884,45,Male,COPD,1,18,Under Treatment
+885,64,Male,COPD,7,14,Under Treatment
+886,84,Female,Parkinson's,12,3,Recovered
+887,2,Other,Chronic Kidney Disease,8,3,Recovered
+888,37,Other,Tuberculosis,11,21,Recovered
+889,65,Female,Stroke,10,14,Under Treatment
+890,95,Other,Alzheimer's,3,20,Under Treatment
+891,61,Male,Stroke,5,15,Not Recovered
+892,73,Female,Asthma,10,22,Not Recovered
+893,30,Other,Arthritis,5,21,Not Recovered
+894,67,Female,Heart Disease,5,2,Recovered
+895,80,Female,HIV/AIDS,5,21,Under Treatment
+896,63,Female,Obesity,6,3,Recovered
+897,85,Female,COPD,4,18,Not Recovered
+898,41,Other,Epilepsy,5,17,Recovered
+899,85,Other,Malaria,2,5,Not Recovered
+900,80,Other,Hypertension,11,3,Not Recovered
+901,11,Female,Hypertension,7,14,Not Recovered
+902,75,Male,Hypertension,6,17,Under Treatment
+903,96,Male,HIV/AIDS,4,10,Under Treatment
+904,57,Male,Heart Disease,4,1,Under Treatment
+905,92,Female,COPD,7,1,Under Treatment
+906,94,Male,COPD,1,23,Recovered
+907,78,Other,Heart Disease,7,4,Not Recovered
+908,50,Other,HIV/AIDS,8,8,Under Treatment
+909,55,Female,Migraine,9,23,Not Recovered
+910,72,Female,Tuberculosis,9,14,Not Recovered
+911,94,Male,Epilepsy,7,21,Under Treatment
+912,91,Male,Diabetes,5,20,Under Treatment
+913,73,Other,Tuberculosis,10,3,Not Recovered
+914,54,Female,Alzheimer's,6,16,Recovered
+915,26,Male,Obesity,6,10,Not Recovered
+916,44,Female,Chronic Kidney Disease,2,20,Under Treatment
+917,86,Other,Hypertension,11,12,Recovered
+918,57,Male,Parkinson's,8,22,Not Recovered
+919,35,Other,Heart Disease,7,11,Not Recovered
+920,63,Female,Arthritis,10,4,Recovered
+921,94,Other,Tuberculosis,8,23,Recovered
+922,99,Other,Cancer,11,6,Recovered
+923,29,Other,Epilepsy,3,15,Not Recovered
+924,76,Other,Stroke,9,14,Under Treatment
+925,77,Female,Epilepsy,3,8,Recovered
+926,75,Male,Malaria,10,12,Recovered
+927,11,Male,Cancer,3,24,Not Recovered
+928,45,Male,Anxiety,10,21,Not Recovered
+929,66,Other,COPD,7,10,Not Recovered
+930,49,Male,COPD,9,16,Under Treatment
+931,6,Female,Arthritis,1,15,Not Recovered
+932,62,Other,Asthma,4,18,Recovered
+933,78,Other,Stroke,1,20,Under Treatment
+934,96,Female,Hypertension,9,14,Not Recovered
+935,100,Female,Stroke,11,8,Not Recovered
+936,30,Other,Hepatitis,10,14,Under Treatment
+937,56,Other,COPD,1,19,Under Treatment
+938,23,Female,Asthma,3,7,Recovered
+939,41,Female,Anxiety,9,21,Recovered
+940,75,Male,Asthma,2,2,Under Treatment
+941,59,Male,Stroke,8,20,Not Recovered
+942,53,Other,Anxiety,9,2,Recovered
+943,25,Female,Cancer,2,20,Not Recovered
+944,58,Female,Stroke,7,1,Recovered
+945,57,Female,Diabetes,10,6,Not Recovered
+946,7,Female,Diabetes,9,23,Recovered
+947,48,Male,Cancer,12,13,Not Recovered
+948,43,Female,Heart Disease,5,13,Under Treatment
+949,90,Female,Arthritis,10,4,Not Recovered
+950,37,Other,Alzheimer's,2,19,Recovered
+951,63,Other,Stroke,11,23,Not Recovered
+952,43,Male,Tuberculosis,11,21,Under Treatment
+953,3,Other,Cancer,8,7,Recovered
+954,65,Other,Tuberculosis,12,13,Not Recovered
+955,9,Female,Obesity,9,16,Recovered
+956,16,Female,Alzheimer's,7,20,Under Treatment
+957,89,Other,Depression,4,12,Recovered
+958,87,Male,Tuberculosis,4,19,Recovered
+959,73,Male,Diabetes,5,5,Not Recovered
+960,48,Male,Chronic Kidney Disease,1,10,Under Treatment
+961,38,Other,Stroke,12,20,Under Treatment
+962,51,Male,Hypertension,1,1,Recovered
+963,34,Other,Chronic Kidney Disease,6,19,Not Recovered
+964,9,Other,HIV/AIDS,11,12,Under Treatment
+965,5,Male,Alzheimer's,9,11,Not Recovered
+966,100,Male,Obesity,2,19,Not Recovered
+967,74,Other,Arthritis,5,24,Recovered
+968,71,Male,Asthma,12,13,Not Recovered
+969,64,Male,Hypertension,9,11,Recovered
+970,1,Female,Hepatitis,11,19,Recovered
+971,17,Other,Obesity,7,8,Under Treatment
+972,100,Male,Migraine,4,4,Recovered
+973,15,Male,Asthma,11,24,Under Treatment
+974,47,Female,Heart Disease,1,5,Recovered
+975,43,Other,Stroke,12,19,Under Treatment
+976,18,Other,Migraine,10,3,Under Treatment
+977,1,Female,Depression,11,7,Recovered
+978,45,Male,Heart Disease,9,5,Not Recovered
+979,44,Male,COPD,5,23,Under Treatment
+980,83,Male,Malaria,5,18,Under Treatment
+981,3,Other,Parkinson's,11,18,Under Treatment
+982,73,Female,Hepatitis,9,18,Not Recovered
+983,42,Other,Epilepsy,5,12,Under Treatment
+984,43,Female,HIV/AIDS,9,23,Recovered
+985,44,Male,Hepatitis,4,16,Recovered
+986,89,Male,Alzheimer's,7,23,Recovered
+987,94,Male,Diabetes,1,20,Under Treatment
+988,75,Other,Migraine,11,23,Not Recovered
+989,17,Female,Malaria,3,12,Recovered
+990,62,Other,Diabetes,7,19,Recovered
+991,78,Male,Cancer,8,8,Recovered
+992,16,Male,Cancer,11,24,Not Recovered
+993,21,Other,Arthritis,8,1,Not Recovered
+994,21,Other,Depression,10,22,Under Treatment
+995,74,Other,Cancer,10,13,Not Recovered
+996,75,Male,Arthritis,9,3,Not Recovered
+997,24,Male,Cancer,10,17,Not Recovered
+998,57,Female,Epilepsy,7,14,Under Treatment
+999,68,Male,Arthritis,9,3,Recovered
+1000,4,Other,Heart Disease,3,14,Recovered
